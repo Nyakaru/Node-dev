@@ -1,0 +1,29 @@
+{
+  "name": "Node-dev",
+  "version": "1.0.0",
+  "description": "Node refresher course",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyakaru/Node-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyakaru/Node-dev/issues"
+  },
+  "homepage": "https://github.com/Nyakaru/Node-dev#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
