@@ -1,0 +1,14 @@
+{
+  "name": "cronjobs",
+  "version": "1.0.0",
+  "description": "cron jobs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.2",
+    "shelljs": "^0.8.3"
+  }
+}
